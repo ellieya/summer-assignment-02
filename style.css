@@ -97,12 +97,13 @@ html {
 }
 
 #about-me img {
-    display:block;
-    width:250px;
+    display:inline-block;
+    width:220px;
     float:left;
 }
 
 #about-me p {
+    
 }
 
 
